@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
 use App\Http\Controllers\EgresadoController;
 use App\Http\Controllers\GeneracionController;
+use App\Http\Controllers\QuestionController;
 
 /*
 |--------------------------------------------------------------------------
